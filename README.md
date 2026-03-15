@@ -11,9 +11,13 @@ Substituir infraestrutura física por serviços gerenciados para reduzir custos 
 🗄️ Amazon RDS: Banco de dados gerenciado para o ERP, eliminando gastos com manutenção de hardware local.
 
 📊 Ganhos Estimados
+
 📉 Economia Mensal: ~R$ 8.450,00.
+
 ⏱️ Performance: Backup 16x mais rápido (de 4h para 15min).
+
 ✅ Disponibilidade: SLA de 99.95%.
+
 
 📂 Estrutura
 Docs/: Relatório de Implementação.
