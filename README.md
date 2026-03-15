@@ -4,11 +4,15 @@ Projeto focado na migração estratégica para nuvem da Rede Biodrogas, prioriza
 🎯 Objetivo
 Substituir infraestrutura física por serviços gerenciados para reduzir custos operacionais em até 71%.
 
+
 🛠️ Soluções Implementadas
 
 📦 Amazon S3: Backups e documentos em nuvem com arquivamento automático (Glacier) para reduzir custo de storage.
+
 ⚡ AWS Lambda: Automação de processos entre lojas sem custos de servidor ligado 24/7 (pagamento por uso).
+
 🗄️ Amazon RDS: Banco de dados gerenciado para o ERP, eliminando gastos com manutenção de hardware local.
+
 
 📊 Ganhos Estimados
 
